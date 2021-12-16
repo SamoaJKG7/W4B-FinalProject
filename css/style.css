@@ -115,6 +115,15 @@ footer {
     background-repeat: no-repeat;
     background-size: cover
 }
+.contact-us {
+    text-align: center;
+}
+.email {
+    text-align: center;
+}
+.mailing {
+    text-align: center;
+}
 /* #box1 {
     background-image: url(/img/spritz.jpg);
     width: 25%;
